@@ -1,0 +1,19 @@
+#body-output {
+    padding-left: 2em;
+    margin-top: 2em;
+    padding-top: 3em;
+    background-color: #f2f2f2;
+    width: 520px;
+    border: 2px solid red;
+}
+
+li {
+    list-style: none;
+    padding-top: 0.50em;
+    color: red;
+    width: 65%;
+    margin-left: 2em;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

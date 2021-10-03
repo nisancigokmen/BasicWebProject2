@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("https://media.giphy.com/media/YnlDGfCxyOIYTDp86I/giphy.gif");
+}
+
+#tag-title {
+    text-align: center;
+    font-size: 21px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#body-tag {
+    display: flex;
+    justify-content: center;
+    padding-top: 4em;
+}
+
+button {
+    width: 124px;
+    height: 32px;
+    text-align: center;
+    margin-top: 1em;
+}
+
+button:hover {
+    opacity: 0.4;
+}

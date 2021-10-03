@@ -1,0 +1,25 @@
+form {
+    margin-top: 1em;
+}
+
+input {
+    margin-top: 0.75em;
+    width: 210px;
+    height: 16px;
+}
+
+#body-form {
+    text-align: center;
+    padding-left: 2em;
+    padding-top: 2em;
+    padding-right: 4em;
+}
+
+fieldset {
+    border: 2px solid red;
+    background-color: #f2f2f2;
+    padding-left: 2em;
+    margin-right: 1em;
+    width: 520px;
+    height: 260px;
+}
