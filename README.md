@@ -1,6 +1,5 @@
 # BasicWebProject/2
-
- <img src="https://media4.giphy.com/media/ukMiDlCmdv2og/200.webp?cid=ecf05e47ffce2b0hsh093wuanv9svzaywp9ar5ufcywsb3tl&rid=200.webp&ct=g" >
+![interface](https://user-images.githubusercontent.com/91744618/137241639-7ee78bf7-c441-442c-a660-643352fdd425.png)
 
 <h3>Please let us know your questions and comments. </h3>
 <hr>
