@@ -12,7 +12,7 @@
 <img src= "https://media3.giphy.com/media/1C8bHHJturSx2/200w.webp?cid=ecf05e4735jeym2nr3krpn4ys5xy05a55szvb32eaungmyb1&rid=200w.webp&ct=g "  width="220"> 
 
 
-...
+....
 
 </div><br>
 &copy; Gökmen Nişancı / Web Developer
