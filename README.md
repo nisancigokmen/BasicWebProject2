@@ -11,8 +11,6 @@
 <img src= "https://media0.giphy.com/media/QHE5gWI0QjqF2/200w.webp?cid=ecf05e47gtb5brofxcvnxxe9nfngxw2ghk5g7btr8nndg9z1&rid=200w.webp&ct=g"  width="180 height="24"> 
 <img src= "https://media3.giphy.com/media/1C8bHHJturSx2/200w.webp?cid=ecf05e4735jeym2nr3krpn4ys5xy05a55szvb32eaungmyb1&rid=200w.webp&ct=g "  width="220"> 
 
-
-......
-
+.......
 </div><br>
 &copy; Gökmen Nişancı / Web Developer
