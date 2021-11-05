@@ -1,7 +1,6 @@
 # BasicWebProject/2
 ![interface](https://user-images.githubusercontent.com/91744618/137241639-7ee78bf7-c441-442c-a660-643352fdd425.png)
 
-<h3>Please let us know your questions and comments. </h3>
 <hr>
 <h2> CONTACT </h2>
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
