@@ -12,4 +12,4 @@
 
 
 </div><br>
-&copy; Gökmen Nişancı / Web Developer
+&copy; Gökmen Nişancı / Web Developer.
