@@ -1,6 +1,24 @@
 # BasicWebProject2
 ![interface](https://user-images.githubusercontent.com/91744618/137241639-7ee78bf7-c441-442c-a660-643352fdd425.png)
 
+
+
+
+<hr>
+
+  <ol>
+    
+  <h3><i> use of </i></h3> 
+  <h5>You can calculate exam grades for beginners.</h5>
+  <li>  <p>Enter the 3 numerical values you want to .</p> </li>
+    <li> <p> click the calculte   &#128516 </p> </li>
+  <li><p> displays the scores you typed.  </p></li>
+  <li> <p> Displays the average and total of the scores you typed. </p> </li>
+           <p> &#128151 thank you for giving a time &#128151 </p>
+  </ol>
+<hr>
+
+
 <hr>
 <h2> CONTACT </h2>
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
