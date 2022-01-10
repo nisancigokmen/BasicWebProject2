@@ -2,30 +2,43 @@
 ![interface](https://user-images.githubusercontent.com/91744618/137241639-7ee78bf7-c441-442c-a660-643352fdd425.png)
 
 
-<hr>
+<div id="useApp">
 
   <ol>
+  
+  <h3> USE OF </h3> 
     
-  <h3><i> use of </i></h3> 
-  <h5>You can calculate exam grades for beginners.</h5>
-  <li>  <p>Enter the 3 numerical values you want to .</p> </li>
-    <li> <p> click the calculte   &#128516 </p> </li>
+  <li><p>Enter the 3 numerical values you want to .</p> </li>
+  <li> <p> click the calculte   &#128516 </p> </li>
   <li><p> displays the scores you typed.  </p></li>
   <li> <p> Displays the average and total of the scores you typed. </p> </li>
-           <p> &#128151 thank you for giving a time &#128151 </p>
+        
   </ol>
-<hr>
 
+  </div>
+<br>
 
-<hr>
-<h2> CONTACT </h2>
-<a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
-<hr>
-<div>
-<img src= "https://media2.giphy.com/media/mS8QAaGVYlT2olef9f/200w.webp?cid=ecf05e478yksuz9g4sdofujsw33ab1r3tnqzncad4uvkoa5l&rid=200w.webp&ct=g" width="140"> 
-<img src= "https://media0.giphy.com/media/QHE5gWI0QjqF2/200w.webp?cid=ecf05e47gtb5brofxcvnxxe9nfngxw2ghk5g7btr8nndg9z1&rid=200w.webp&ct=g"  width="180 height="24"> 
-<img src= "https://media3.giphy.com/media/1C8bHHJturSx2/200w.webp?cid=ecf05e4735jeym2nr3krpn4ys5xy05a55szvb32eaungmyb1&rid=200w.webp&ct=g "  width="220"> 
+<div id="contact">
 
+ <h2> Connect with me: </h2>
+ 
+  <a href=""><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="72x"> </a>  &nbsp;
+   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://alanyavitahomes.com/SiteFolder/img/email.png" width="72px"> </a> 
+ 
+ </div>
 
-</div><br>
+ 
+ <div id="tools">
+ <h2> Languages and tools:  </h2><br>
+ 
+ <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
+
+ <img src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
+ 
+ <img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145">
+ 
+ </div>
+ 
+<br>
 &copy; Gökmen Nişancı / Web Developer.
+
